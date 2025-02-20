@@ -22,6 +22,7 @@
   "MODEL_CONFIG": {
     "MAX_DEPTH": 30,
     "MIN_SAMPLES_LEAF": 2,
-    "MIN_SAMPLES_SPLIT": 3
+    "MIN_SAMPLES_SPLIT": 3,
+    "N_ESTIMATORS":20
   }
 }
